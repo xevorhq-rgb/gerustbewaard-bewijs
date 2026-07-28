@@ -1,0 +1,9 @@
+*.env
+.env*
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.db
+*.bak
+logs/
+backups/
