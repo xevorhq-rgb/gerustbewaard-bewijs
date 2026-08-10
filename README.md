@@ -22,7 +22,7 @@ python3 tools/verify.py
 - `ARCHIVE-COMMITMENT.txt` verankert het volledige prive-manifest (elke byte van het
   archief) als een verbintenis, zonder iets over de inhoud prijs te geven.
 
-## Eerlijke Bitcoin-status (stand 2026-07-27, 24 zegels)
+## Eerlijke Bitcoin-status (stand 2026-07-27, 25 zegels)
 De zegels bevatten Bitcoin-attestaties, maar zijn hier nog niet onafhankelijk tegen een
 eigen Bitcoin-node geverifieerd. De verifier toont dat eerlijk: BITCOIN wordt pas
 VERIFIED (en de eindstatus pas GREEN) na een succesvolle `ots verify`; tot die tijd is
