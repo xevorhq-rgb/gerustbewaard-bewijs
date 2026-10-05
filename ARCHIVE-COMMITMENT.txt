@@ -1,5 +1,5 @@
 GERUSTBEWAARD-ARCHIVE-COMMITMENT v1
-stand: 2026-10-04
-prive-manifest-sha256: 00d72132a7eefb879e564b49667ac0a99e52462243985e33901eaec0fa0a50de
-prive-manifest-bytes: 311625
-prive-manifest-regels: 2302
+stand: 2026-10-05
+prive-manifest-sha256: 6aea027ad9f8a45fd3ef130176564d06daeb93f5c39bc192f139fdc80d141bca
+prive-manifest-bytes: 317045
+prive-manifest-regels: 2342
